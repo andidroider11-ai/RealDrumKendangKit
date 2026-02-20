@@ -1,0 +1,325 @@
+{
+  "kits": [
+    {
+      "id": "DefaultKit2",
+      "name": "Kendang Koplo",
+      "author": "Admin",
+      "path": "KitDefault2",
+      "url": "Kendang Koplo.kit",
+      "url_image": "Kendang Koplo.jpg",
+      "youtube": ""
+    },
+    {
+      "id": "DefaultKit3",
+      "name": "Kendang Jaranan",
+      "author": "Admin",
+      "path": "KitDefault3",
+      "url": "Kendang Jaranan.kit",
+      "url_image": "Kendang Jaranan.jpg",
+      "youtube": ""
+    },
+    {
+      "id": "DefaultKit4",
+      "name": "Kendang Ketipung",
+      "author": "Admin",
+      "path": "KitDefault4",
+      "url": "Ketipung.kit",
+      "url_image": "Ketipung.jpg",
+      "youtube": ""
+    },
+    {
+      "id": "Upload_01",
+      "name": "Kendang Drum Koplo Komplit",
+      "author": "Admin",
+      "path": "Upload_01",
+      "url": "Upload_01.kit",
+      "url_image": "Upload_01.jpg",
+      "youtube": ""
+    },
+    {
+      "id": "Upload_02",
+      "name": "Kendang Ageng",
+      "author": "Ozan Takdut Official",
+      "path": "Upload_02",
+      "url": "Upload_02.kit",
+      "url_image": "Upload_02.jpg",
+      "youtube": "https://www.youtube.com/channel/UCo-O0DPFtfyOV17vd3jsuNA"
+    },
+    {
+      "id": "Upload_03",
+      "name": "Kendang Komplit 3D V.1",
+      "author": "Ozan Takdut Official",
+      "path": "Upload_03",
+      "url": "Upload_03.kit",
+      "url_image": "Upload_03.jpg",
+      "youtube": "https://www.youtube.com/channel/UCo-O0DPFtfyOV17vd3jsuNA"
+    },
+    {
+      "id": "Upload_04",
+      "name": "Jaipong Jaranan",
+      "author": "Admin",
+      "path": "Upload_04",
+      "url": "Upload_04.kit",
+      "url_image": "Upload_04.jpg",
+      "youtube": ""
+    },
+    {
+      "id": "Upload_05",
+      "name": "Jaranan V2",
+      "author": "Admin",
+      "path": "Upload_05",
+      "url": "Upload_05.kit",
+      "url_image": "Upload_05.jpg",
+      "youtube": ""
+    },
+    {
+      "id": "Upload_06",
+      "name": "Kendang Jaipong Dut",
+      "author": "Admin",
+      "path": "Upload_06",
+      "url": "Upload_06.kit",
+      "url_image": "Upload_06.jpg",
+      "youtube": ""
+    },
+    {
+      "id": "Upload_07",
+      "name": "Kendang Jaranan Langgam Jawa",
+      "author": "HENDRY WAN DK_ANDRO",
+      "path": "Upload_07",
+      "url": "Upload_07.kit",
+      "url_image": "Upload_07.jpg",
+      "youtube": "https://www.youtube.com/channel/UC_M5c2SilrK5ZpPMV3Jr7dw",
+      "facebook": "https://web.facebook.com/alah.mboh.52056223?_rdc=1&_rdr"
+    },
+    {
+      "id": "Upload_08",
+      "name": "Kendang Cak Nophie Adella",
+      "author": "HENDRY WAN DK_ANDRO",
+      "path": "Upload_08",
+      "url": "Upload_08.kit",
+      "url_image": "Upload_08.jpg",
+      "youtube": "https://www.youtube.com/channel/UC_M5c2SilrK5ZpPMV3Jr7dw",
+      "facebook": "https://web.facebook.com/alah.mboh.52056223?_rdc=1&_rdr"
+    },
+    {
+      "id": "Upload_09",
+      "name": "Jaipong Bajidor Koplo",
+      "author": "HENDRY WAN DK_ANDRO",
+      "path": "Upload_09",
+      "url": "Upload_09.kit",
+      "url_image": "Upload_09.jpg",
+      "youtube": "https://www.youtube.com/channel/UC_M5c2SilrK5ZpPMV3Jr7dw",
+      "facebook": "https://web.facebook.com/alah.mboh.52056223?_rdc=1&_rdr"
+    },
+    {
+      "id": "Upload_10",
+      "name": "KENDANG JAIPONG RAMPAK",
+      "author": "FAKM OFFICIAL",
+      "path": "Upload_10",
+      "url": "Upload_10.kit",
+      "url_image": "Upload_10.jpg",
+      "youtube": "https://www.youtube.com/c/FAKMOFFICIAL",
+      "facebook": ""
+    },
+    {
+      "id": "Upload_11",
+      "name": "KENDANG PARALON",
+      "author": "Admin",
+      "path": "Upload_11",
+      "url": "Upload_11.kit",
+      "url_image": "Upload_11.jpg",
+      "youtube": "",
+      "facebook": ""
+    },
+    {
+      "id": "Upload_12",
+      "name": "Kendang Paralon Jalanan",
+      "author": "HENDRY WAN DK_ANDRO",
+      "path": "Upload_12",
+      "url": "Upload_12.kit",
+      "url_image": "Upload_12.jpg",
+      "youtube": "https://www.youtube.com/channel/UC_M5c2SilrK5ZpPMV3Jr7dw",
+      "facebook": "https://web.facebook.com/alah.mboh.52056223?_rdc=1&_rdr"
+    },
+    {
+      "id": "Upload_13",
+      "name": "Sunan KND Banyuwangi",
+      "author": "HENDRY WAN DK_ANDRO",
+      "path": "Upload_13",
+      "url": "Upload_13.kit",
+      "url_image": "Upload_13.jpg",
+      "youtube": "https://www.youtube.com/channel/UC_M5c2SilrK5ZpPMV3Jr7dw",
+      "facebook": "https://web.facebook.com/alah.mboh.52056223?_rdc=1&_rdr"
+    },
+    {
+      "id": "Upload_14",
+      "name": "Yayan Jandhut Kendang Madiun",
+      "author": "HENDRY WAN DK_ANDRO",
+      "path": "Upload_14",
+      "url": "Upload_14.kit",
+      "url_image": "Upload_14.jpg",
+      "youtube": "https://www.youtube.com/channel/UC_M5c2SilrK5ZpPMV3Jr7dw",
+      "facebook": "https://web.facebook.com/alah.mboh.52056223?_rdc=1&_rdr"
+    },
+    {
+      "id": "Upload_15",
+      "name": "Jaipong Wayangan",
+      "author": "HENDRY WAN DK_ANDRO",
+      "path": "Upload_15",
+      "url": "Upload_15.kit",
+      "url_image": "Upload_15.jpg",
+      "youtube": "https://www.youtube.com/channel/UC_M5c2SilrK5ZpPMV3Jr7dw",
+      "facebook": "https://web.facebook.com/alah.mboh.52056223?_rdc=1&_rdr"
+    },
+    {
+      "id": "Upload_16",
+      "name": "Gong Kenong Jathilan",
+      "author": "HENDRY WAN DK_ANDRO",
+      "path": "Upload_16",
+      "url": "Upload_16.kit",
+      "url_image": "Upload_16.jpg",
+      "youtube": "https://www.youtube.com/channel/UC_M5c2SilrK5ZpPMV3Jr7dw",
+      "facebook": "https://web.facebook.com/alah.mboh.52056223?_rdc=1&_rdr"
+    },
+    {
+      "id": "Upload_17",
+      "name": "Jaipong Banyumas",
+      "author": "HENDRY WAN DK_ANDRO",
+      "path": "Upload_17",
+      "url": "Upload_17.kit",
+      "url_image": "Upload_17.jpg",
+      "youtube": "https://www.youtube.com/channel/UC_M5c2SilrK5ZpPMV3Jr7dw",
+      "facebook": "https://web.facebook.com/alah.mboh.52056223?_rdc=1&_rdr"
+    },
+    {
+      "id": "Upload_18",
+      "name": "Hadroh",
+      "author": "Admin",
+      "path": "Upload_18",
+      "url": "Upload_18.kit",
+      "url_image": "Upload_18.jpg",
+      "youtube": "",
+      "facebook": ""
+    },
+    {
+      "id": "Upload_19",
+      "name": "Kendang Konten",
+      "author": "SOBAT TATE",
+      "path": "Upload_19",
+      "url": "Upload_19.kit",
+      "url_image": "Upload_19.jpg",
+      "youtube": "https://www.youtube.com/@sobattate",
+      "facebook": ""
+    },
+    {
+      "id": "Upload_20",
+      "name": "KIT SAM",
+      "author": "SOBAT TATE",
+      "path": "Upload_20",
+      "url": "Upload_20.kit",
+      "url_image": "Upload_20.jpg",
+      "youtube": "https://www.youtube.com/@sobattate",
+      "facebook": ""
+    },
+    {
+      "id": "Upload_21",
+      "name": "KIT SOBAT TATE",
+      "author": "SOBAT TATE",
+      "path": "Upload_21",
+      "url": "Upload_21.kit",
+      "url_image": "Upload_21.jpg",
+      "youtube": "https://www.youtube.com/@sobattate",
+      "facebook": ""
+    },
+    {
+      "id": "Upload_22",
+      "name": "TAMBOURIN_SAM",
+      "author": "SOBAT TATE",
+      "path": "Upload_22",
+      "url": "Upload_22.kit",
+      "url_image": "Upload_22.jpg",
+      "youtube": "https://www.youtube.com/@sobattate",
+      "facebook": ""
+    },
+    {
+      "id": "Upload_23",
+      "name": "Hadroh Al-habsyi",
+      "author": "Cecep",
+      "path": "Upload_23",
+      "url": "Upload_23.kit",
+      "url_image": "Upload_23.jpg",
+      "youtube": "",
+      "facebook": "https://www.facebook.com/ktapangfrustasi"
+    },
+    {
+      "id": "Upload_24",
+      "name": "Drum Koplo Hadroh",
+      "author": "Gus Itok",
+      "path": "Upload_24",
+      "url": "Upload_24.kit",
+      "url_image": "Upload_24.jpg",
+      "youtube": "",
+      "facebook": "https://www.facebook.com/profile.php?id=100094042154230"
+    },
+    {
+      "id": "Upload_25",
+      "name": "Gendang Rampak",
+      "author": "Bang Akmal CRB",
+      "path": "Upload_25",
+      "url": "Upload_25.kit",
+      "url_image": "Upload_25.jpg",
+      "youtube": "",
+      "facebook": "https://www.facebook.com/rio.aray"
+    },
+    {
+      "id": "Upload_26",
+      "name": "Kit gendang Ko Lif",
+      "author": "Ko Lif",
+      "path": "Upload_26",
+      "url": "Upload_26.kit",
+      "url_image": "Upload_26.jpg",
+      "youtube": "",
+      "facebook": "https://www.facebook.com/kulifku"
+    },
+    {
+      "id": "Upload_27",
+      "name": "Drum Alfi & ORG Band",
+      "author": "Alfi & ORG Band",
+      "path": "Upload_27",
+      "url": "Upload_27.kit",
+      "url_image": "Upload_27.jpg",
+      "youtube": "https://www.youtube.com/@Alfigaming/featured",
+      "facebook": "https://www.facebook.com/profile.php?id=100091475529357"
+    },
+    {
+      "id": "Upload_28",
+      "name": "Gendang Koplo Drum ORG Band",
+      "author": "Alfi & ORG Band",
+      "path": "Upload_28",
+      "url": "Upload_28.kit",
+      "url_image": "Upload_28.jpg",
+      "youtube": "https://www.youtube.com/@Alfigaming/featured",
+      "facebook": "https://www.facebook.com/profile.php?id=100091475529357"
+    },
+    {
+      "id": "Upload_29",
+      "name": "KIT HADROH Al-HABSYI by MSA",
+      "author": "Majelis Al-Ashab",
+      "path": "Upload_29",
+      "url": "Upload_29.kit",
+      "url_image": "Upload_29.jpg",
+      "youtube": "",
+      "facebook": "https://www.facebook.com/rahmat.deni.18"
+    },
+    {
+      "id": "Upload_30",
+      "name": "AEREA SET KIT",
+      "author": "Aerea",
+      "path": "Upload_30",
+      "url": "Upload_30.kit",
+      "url_image": "Upload_30.jpg",
+      "youtube": "",
+      "facebook": "https://www.facebook.com/profile.php?id=100044473180152"
+    }
+  ]
+}
